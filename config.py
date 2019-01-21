@@ -1,6 +1,5 @@
 # Enter your API key
-gkey = "AIzaSyAGP7eeAnS9lwikSDyd8IMnWrJajRIkydI"
-#this is my Google maps api key
+
 
 #this is my open weather key
 wkey = "f51381799eb995c69b073fdfce892a3f"
